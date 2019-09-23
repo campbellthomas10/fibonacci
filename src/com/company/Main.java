@@ -11,9 +11,9 @@ public class Main {
 
         do {
 
-            int firstNumber = 0;
-            int secondNumber = 1;
-            int nextNumber;
+            long firstNumber = 0;
+            long secondNumber = 1;
+            long nextNumber;
             int runTimes;
 
             do {
